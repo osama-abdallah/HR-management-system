@@ -18,6 +18,20 @@ display: flex;
 
 }
 
+table{
+    border: 1px solid;
+    text-align: center;
+    width: 80%;
+    margin-top: 50px!important;
+    margin-left: 150px!important;
+}
+
+th, td{
+    width: 25%;
+    border: 1px solid;
+        
+}
+
 
 body{
     background-color:cadetblue;
@@ -52,6 +66,7 @@ footer{
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-top: 200px!important;
 
 }
 
